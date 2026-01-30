@@ -26,7 +26,7 @@ It’s designed to feel like a real security tool, not just a demo script.
 Clone the project:
 
 ```bash
-git clone https://github.com/yourname/rubyscan.git
+git clone https://github.com/milkadelaetsuuur/rubyscan.git
 cd rubyscan
 ```
 
